@@ -1,0 +1,148 @@
+/* .grid { 
+    margin: 0;
+    min-height: 100vh;
+    background: #ccc;
+    display: flex;
+    flex-direction: column;
+}
+.Header, .footer{
+
+    height: 3rem;
+    background: #777;
+    color: white;
+    margin: -15px;
+    background-image: url("https://scontent.fskp3-1.fna.fbcdn.net/v/t1.15752-9/326143254_728691285542737_1034150961207236582_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=86xB5l81tXAAX_By2L_&_nc_oc=AQnB3E8zJQPdZnWFXIK6gjO7DmXdFKMAu8hUhZ9-FI9hCWqFYWeS9QPEB1HizLJVlek&_nc_ht=scontent.fskp3-1.fna&oh=03_AdTilI0WoLeWJPp0R-xH77wL3GtT_zd3owbcc0QPWst_OQ&oe=6407A9FF");
+    background-size: cover;
+    
+
+    
+
+}
+.Main{
+    display: flex;
+    flex: 1;
+    align-items: first baseline;
+    background: #999;
+    color: #000;
+    background-color: #D3D3D3;
+    text-align: center;
+    padding-left: 300px;
+    background-image: url("https://scontent.fskp3-1.fna.fbcdn.net/v/t1.15752-9/327024898_919908065674874_1273563180359627341_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=pEhLWcUMpQcAX-o5nDo&_nc_ht=scontent.fskp3-1.fna&oh=03_AdSWnqatV_q6anLqL5syXbd8v8U2uoy83VTmQ7eJvr7qFg&oe=64079FAD");
+    background-position-y: 400px;
+    
+    
+   
+    
+}
+.Menu{
+    width: 10rem;
+    background: #ccc;
+    padding: 70px;
+    position: fixed;
+    top:89.5px;
+    bottom: 50px;
+    background-image: url("https://scontent.fskp3-1.fna.fbcdn.net/v/t1.15752-9/325378754_911063769910497_8027823416893898455_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=P43Wd7lsnGwAX9jQgEK&_nc_ht=scontent.fskp3-1.fna&oh=03_AdRXqtrCXb4xxqRUiCUYusleWsJxjHTD_9wfW5f0BUgGvQ&oe=6407C676");
+    background-size: cover;
+
+  
+}
+.footer{
+    padding: 0;
+    height: 100px;
+    bottom: 0;
+    position: fixed;
+    width: 100vw;
+    
+}
+body{
+    margin: 0;
+}
+.Header{
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    top: 0;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    margin: -15px;
+    margin-left: 0;
+}
+div{
+    border: solid 1px rgb(78, 74, 74);
+    
+    
+}
+body {
+    margin: 0;
+  }
+#foo1{
+    text-align: center;
+    padding: 20px;
+    
+    
+    
+    
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+    
+}
+span{
+    padding: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    color: black;
+   
+    
+    
+}
+
+article {
+    text-align:left;
+    padding: 50px;
+    color: black;
+    margin: 95px;
+    background-color: rgb(255, 255, 255);
+    border: solid 2px#8181815a ;
+    border-radius: 12px;
+    box-shadow: 1px 1px 4px; 
+   
+    
+} 
+#hom:hover{
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-palette-generators.jpg");
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+   
+}
+
+#nole:hover{
+    background-image: url("https://miuc.org/wp-content/uploads/2018/02/How-can-colours-help-you-in-your-everyday-life.jpg");
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    
+    
+   
+}
+
+a:hover{
+    background-image: url("https://images.unsplash.com/photo-1615714464931-34de72a96aa6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80");
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+
+}
+
+    
+ */
